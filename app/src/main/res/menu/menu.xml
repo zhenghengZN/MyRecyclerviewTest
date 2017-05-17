@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/listview"
+        android:title="listview效果">
+        <menu>
+            <item
+                android:id="@+id/listview_vatical_stander"
+                android:title="垂直標準" />
+            <item
+                android:id="@+id/listview_vatical_revser"
+                android:title="垂直反向" />
+            <item
+                android:id="@+id/listview_horizontical_stander"
+                android:title="水平標準" />
+            <item
+                android:id="@+id/listview_horizontical_revser"
+                android:title="水平反向" />
+
+        </menu>
+    </item>
+    <item
+        android:id="@+id/gradeview"
+        android:title="gridview效果">
+        <menu>
+            <item
+                android:id="@+id/gradeview_vatical_stander"
+                android:title="垂直標準" />
+            <item
+                android:id="@+id/gradeview_vatical_revser"
+                android:title="垂直反向" />
+            <item
+                android:id="@+id/gradeview_horizontical_stander"
+                android:title="水平標準" />
+            <item
+                android:id="@+id/gradeview_horizontical_revser"
+                android:title="水平反向" />
+
+        </menu>
+    </item>
+    <item
+        android:id="@+id/stagger"
+        android:title="瀑布流效果">
+        <menu>
+            <item
+                android:id="@+id/stagger_vatical_stander"
+                android:title="垂直標準" />
+            <item
+                android:id="@+id/stagger_vatical_revser"
+                android:title="垂直反向" />
+            <item
+                android:id="@+id/stagger_horizontical_stander"
+                android:title="水平標準" />
+            <item
+                android:id="@+id/stagger_horizontical_revser"
+                android:title="水平反向" />
+
+        </menu>
+    </item>
+</menu>
